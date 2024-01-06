@@ -7,7 +7,7 @@ This is the TastyTales Recipes Project
 <img src="./imgs/Pizza%20small.png" alt="img" width="1100px" height="790px">
 
 # 2nd Page
-<img src="./imgs/salmon%20small.png" alt="img" width="900px" height="1800px">
+<img src="./imgs/salmon%20small.png" alt="img" width="1100px" height="2000px">
 
 # 3rd Page
 <img src="./imgs/Banana_bread%20small.png"  alt="img" width="1100px" height="2200px">
