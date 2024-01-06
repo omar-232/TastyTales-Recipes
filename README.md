@@ -10,6 +10,6 @@ This is the TastyTales Recipes Project
 <img src="./imgs/salmon%20small.png" alt="img" width="1100px" height="790px">
 
 # 3rd Page
-<img src="./imgs/Banana_bread%20small.png"  alt="img" width="1100px" height="900px">
+<img src="./imgs/Banana_bread%20small.png"  alt="img" width="1100px" height="2200px">
 
 
